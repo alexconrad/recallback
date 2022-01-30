@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xml:space="preserve" viewBox="0 0 100 100" y="0" x="0" xmlns="http://www.w3.org/2000/svg" id="圖層_1" version="1.1" style="height: 100%; width: 100%; background: none; shape-rendering: auto;" width="120px" height="120px"><g class="ldl-scale" style="transform-origin: 50% 50%; transform: rotate(0deg) scale(1, 1);"><g class="ldl-ani"><g class="ldl-layer"><g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.11111s linear -0.740741s infinite normal forwards running breath-9030fb15-7dbc-484c-add2-2589173acf83;"><path fill="#333" d="M73.659 69.55l-3.324-3.324a8.296 8.296 0 0 0-5.904-2.446c-2.23 0-4.327.868-5.904 2.446l-2.154 2.154c-.547.548-1.408.6-2.001.122a154.448 154.448 0 0 1-22.878-22.879 1.494 1.494 0 0 1 .122-2l2.155-2.155c1.577-1.577 2.446-3.673 2.446-5.904s-.868-4.327-2.446-5.904l-3.324-3.324c-3.256-3.256-8.553-3.256-11.808 0l-5.387 5.387c-3.596 3.596-4.287 9.171-1.681 13.558 10.669 17.96 25.184 32.476 43.144 43.144a11.156 11.156 0 0 0 5.704 1.57c2.874 0 5.715-1.111 7.854-3.251l5.387-5.387c3.254-3.254 3.254-8.552-.001-11.807z" style="fill: rgb(227, 88, 57);"></path></g></g><g class="ldl-layer"><g class="ldl-ani"><g><g class="ldl-layer"><g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.11111s linear -0.925926s infinite normal forwards running breath-9030fb15-7dbc-484c-add2-2589173acf83;"><path stroke-miterlimit="10" stroke-width="4" fill="none" stroke="#77a4bd" d="M50.24 29.884c0-10.979 8.901-19.88 19.88-19.88S90 18.904 90 29.884s-8.901 19.88-19.88 19.88" style="stroke: rgb(81, 65, 52);"></path></g></g><g class="ldl-layer"><g class="ldl-ani" style="transform-origin: 50px 50px; transform: scale(0.91); animation: 1.11111s linear -1.11111s infinite normal forwards running breath-9030fb15-7dbc-484c-add2-2589173acf83;"><path d="M43.01 19.933l7.23 9.951 9.951-7.23" stroke-miterlimit="10" fill="none" stroke="#77a4bd" stroke-width="3.9" style="stroke: rgb(81, 65, 52);"></path></g></g></g></g></g><metadata xmlns:d="loading-io">
+<d:name>call back</d:name>
+<d:tags>again,sync,refresh,retry,phone,call back,communication</d:tags>
+<d:license>by</d:license>
+<d:slug>9lwlzl</d:slug>
+</metadata></g></g><style id="breath-9030fb15-7dbc-484c-add2-2589173acf83" data-anikit="">@keyframes breath-9030fb15-7dbc-484c-add2-2589173acf83
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.9647,0.2413,-0.0705,0.7911);
+    transform: scale(0.9099999999999999);
+  }
+  51% {
+    animation-timing-function: cubic-bezier(0.9226,0.2631,-0.0308,0.7628);
+    transform: scale(1.02994);
+  }
+  100% {
+    transform: scale(0.9099999999999999);
+  }
+}</style></svg>
